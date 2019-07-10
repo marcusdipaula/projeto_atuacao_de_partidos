@@ -4,5 +4,5 @@ Ementa: Altera a Lei nº 9.096, de 19 de setembro de 1995 (Lei dos Partidos Pol�
 
 Mais informações: https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2193540
 
-<img src="Print.PNG" />
+<img src="Print.v2.PNG" />
 
