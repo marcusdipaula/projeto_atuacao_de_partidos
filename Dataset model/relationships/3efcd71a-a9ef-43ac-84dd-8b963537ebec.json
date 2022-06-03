@@ -1,0 +1,8 @@
+{
+  "name": "3efcd71a-a9ef-43ac-84dd-8b963537ebec",
+  "fromTable": "Pareceres",
+  "fromColumn": "Nome Parlamentar",
+  "toTable": "dDeputados",
+  "toColumn": "Parlamentar",
+  "crossFilteringBehavior": "bothDirections"
+}

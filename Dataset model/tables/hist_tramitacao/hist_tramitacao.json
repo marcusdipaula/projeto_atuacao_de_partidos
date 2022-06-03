@@ -1,0 +1,15 @@
+{
+  "name": "hist_tramitacao",
+  "isHidden": true,
+  "lineageTag": "3a8f4aa3-096d-45a5-ac13-ae52ef9fc895",
+  "annotations": [
+    {
+      "name": "PBI_NavigationStepName",
+      "value": "Navegação"
+    },
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "81de2055-5360-4c62-b084-5e0848101efb",
+  "fromTable": "Emendas",
+  "fromColumn": "Nome Parlamentar",
+  "toTable": "dDeputados",
+  "toColumn": "Parlamentar",
+  "crossFilteringBehavior": "bothDirections"
+}

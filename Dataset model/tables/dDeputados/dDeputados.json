@@ -1,0 +1,14 @@
+{
+  "name": "dDeputados",
+  "lineageTag": "0821216e-db3a-4e75-a5ea-78b383d6b7f2",
+  "annotations": [
+    {
+      "name": "PBI_NavigationStepName",
+      "value": "Navegação"
+    },
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    }
+  ]
+}

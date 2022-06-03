@@ -1,0 +1,14 @@
+{
+  "name": "Métricas",
+  "lineageTag": "8b224078-2d45-4cfd-9b88-2358245402c6",
+  "annotations": [
+    {
+      "name": "PBI_NavigationStepName",
+      "value": "Navigation"
+    },
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    }
+  ]
+}

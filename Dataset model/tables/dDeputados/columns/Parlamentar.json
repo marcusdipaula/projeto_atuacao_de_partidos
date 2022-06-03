@@ -1,0 +1,13 @@
+{
+  "name": "Parlamentar",
+  "dataType": "string",
+  "sourceColumn": "Parlamentar",
+  "lineageTag": "21a4f945-94ff-47d7-91e3-5a328a318f29",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

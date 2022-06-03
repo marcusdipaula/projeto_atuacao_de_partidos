@@ -1,0 +1,19 @@
+{
+  "name": "Camara_assentos",
+  "dataType": "int64",
+  "isHidden": true,
+  "sourceColumn": "Camara_assentos",
+  "formatString": "0",
+  "lineageTag": "5677a0f8-c69b-4d45-9787-e350d3078efe",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_ChangedProperties",
+      "value": "[\"IsHidden\",\"DataType\"]"
+    }
+  ]
+}

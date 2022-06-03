@@ -1,0 +1,8 @@
+{
+  "name": "b0672f74-55f6-4fb4-bb38-6747e69813e6",
+  "fromTable": "hist_tramitacao",
+  "fromColumn": "Nome Parlamentar",
+  "toTable": "dDeputados",
+  "toColumn": "Parlamentar",
+  "crossFilteringBehavior": "bothDirections"
+}

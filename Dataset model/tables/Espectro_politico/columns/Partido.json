@@ -1,0 +1,13 @@
+{
+  "name": "Partido",
+  "dataType": "string",
+  "sourceColumn": "Partido",
+  "lineageTag": "807cd4a2-b329-48ec-b42e-4206a83694f3",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

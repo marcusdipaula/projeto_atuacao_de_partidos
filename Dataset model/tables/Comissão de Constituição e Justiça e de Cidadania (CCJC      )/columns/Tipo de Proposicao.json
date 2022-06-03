@@ -1,0 +1,18 @@
+{
+  "name": "Tipo de Proposicao",
+  "dataType": "string",
+  "isHidden": true,
+  "sourceColumn": "Tipo de Proposicao",
+  "lineageTag": "ab561005-e2a0-4517-b937-f2628ece7511",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_ChangedProperties",
+      "value": "[\"IsHidden\"]"
+    }
+  ]
+}

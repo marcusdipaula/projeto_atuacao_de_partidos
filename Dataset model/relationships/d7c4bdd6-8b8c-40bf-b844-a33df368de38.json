@@ -1,0 +1,8 @@
+{
+  "name": "d7c4bdd6-8b8c-40bf-b844-a33df368de38",
+  "fromTable": "fHist_atuacoes",
+  "fromColumn": "Partido Parlamentar",
+  "toTable": "Composicao_Camara_Senado",
+  "toColumn": "Partido",
+  "crossFilteringBehavior": "bothDirections"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "% atuacoes nao validas",
+  "expression": [
+    "",
+    "var totalatuacoes = COUNT(fHist_atuacoes[Atuação Parlamentar])",
+    "var totalnvalid = CALCULATE(COUNT(fHist_atuacoes[Atuação Parlamentar]),fHist_atuacoes[Atuação Parlamentar]=\"Votação - Abstenção\" || fHist_atuacoes[Atuação Parlamentar]=\"Votação - Ausente\" || fHist_atuacoes[Atuação Parlamentar]=\"Votação - Art. 17\")",
+    "return",
+    "",
+    "DIVIDE(totalnvalid,totalatuacoes,BLANK())"
+  ],
+  "formatString": "0%;-0%;0%",
+  "lineageTag": "08bb6136-0941-4bb8-a2cf-8709bc847517"
+}

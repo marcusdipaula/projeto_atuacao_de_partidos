@@ -1,0 +1,13 @@
+{
+  "name": "Objeto de votação",
+  "dataType": "string",
+  "sourceColumn": "Objeto de votação",
+  "lineageTag": "43b25cc6-db41-481a-82e5-bb92d7196e93",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

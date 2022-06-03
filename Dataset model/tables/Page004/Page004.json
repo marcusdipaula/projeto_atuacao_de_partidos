@@ -1,0 +1,15 @@
+{
+  "name": "Page004",
+  "isHidden": true,
+  "lineageTag": "0d13eb15-d3a0-44a1-b30d-7d7ac3f2443c",
+  "annotations": [
+    {
+      "name": "PBI_NavigationStepName",
+      "value": "Navigation"
+    },
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    }
+  ]
+}

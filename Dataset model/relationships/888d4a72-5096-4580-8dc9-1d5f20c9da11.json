@@ -1,0 +1,9 @@
+{
+  "name": "888d4a72-5096-4580-8dc9-1d5f20c9da11",
+  "fromCardinality": "one",
+  "fromTable": "Requerimentos",
+  "fromColumn": "Nome Parlamentar",
+  "toTable": "dDeputados",
+  "toColumn": "Parlamentar",
+  "crossFilteringBehavior": "bothDirections"
+}

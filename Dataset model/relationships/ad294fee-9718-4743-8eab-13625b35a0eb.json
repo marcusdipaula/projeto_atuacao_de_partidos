@@ -1,0 +1,10 @@
+{
+  "name": "ad294fee-9718-4743-8eab-13625b35a0eb",
+  "fromCardinality": "one",
+  "fromTable": "Composicao_Camara_Senado",
+  "fromColumn": "Partido",
+  "toTable": "Espectro_politico",
+  "toColumn": "Partido",
+  "isActive": false,
+  "crossFilteringBehavior": "bothDirections"
+}

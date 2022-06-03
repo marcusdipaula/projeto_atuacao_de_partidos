@@ -1,0 +1,8 @@
+{
+  "name": "b66e634b-b02c-4a95-8436-7865a69191b2",
+  "fromTable": "fHist_atuacoes",
+  "fromColumn": "Nome Parlamentar",
+  "toTable": "dDeputados",
+  "toColumn": "Parlamentar",
+  "crossFilteringBehavior": "bothDirections"
+}

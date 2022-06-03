@@ -1,0 +1,13 @@
+{
+  "name": "URL_foto",
+  "dataType": "string",
+  "sourceColumn": "URL_foto",
+  "lineageTag": "91f3e6ee-138a-4120-8dcc-880380fb9566",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

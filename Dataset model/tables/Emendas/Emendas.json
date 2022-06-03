@@ -1,0 +1,15 @@
+{
+  "name": "Emendas",
+  "isHidden": true,
+  "lineageTag": "882051e1-ccf6-4155-b52b-dc2822a5d929",
+  "annotations": [
+    {
+      "name": "PBI_NavigationStepName",
+      "value": "Navegação"
+    },
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    }
+  ]
+}

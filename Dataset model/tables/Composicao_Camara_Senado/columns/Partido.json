@@ -1,0 +1,18 @@
+{
+  "name": "Partido",
+  "dataType": "string",
+  "isHidden": true,
+  "sourceColumn": "Partido",
+  "lineageTag": "16e12a41-e66a-4cd7-8281-bfa386b5c3f1",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_ChangedProperties",
+      "value": "[\"IsHidden\"]"
+    }
+  ]
+}

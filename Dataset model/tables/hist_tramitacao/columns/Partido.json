@@ -1,0 +1,16 @@
+{
+  "type": "calculated",
+  "name": "Partido",
+  "dataType": "int64",
+  "isDataTypeInferred": true,
+  "isHidden": true,
+  "formatString": "0",
+  "lineageTag": "493aa09e-c6e9-454a-8a51-18e71146f35b",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

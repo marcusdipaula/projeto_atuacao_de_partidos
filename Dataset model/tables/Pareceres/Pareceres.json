@@ -1,0 +1,15 @@
+{
+  "name": "Pareceres",
+  "isHidden": true,
+  "lineageTag": "3c75e4a8-d9b3-4ebb-a54d-8c16f5f56495",
+  "annotations": [
+    {
+      "name": "PBI_NavigationStepName",
+      "value": "Navegação"
+    },
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    }
+  ]
+}

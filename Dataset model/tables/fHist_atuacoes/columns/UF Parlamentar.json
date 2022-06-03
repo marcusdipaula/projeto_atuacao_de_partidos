@@ -1,0 +1,14 @@
+{
+  "name": "UF Parlamentar",
+  "dataType": "string",
+  "sourceColumn": "UF Parlamentar",
+  "lineageTag": "ff616b18-ad4c-4a39-9389-99bc367f8009",
+  "dataCategory": "StateOrProvince",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

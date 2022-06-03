@@ -1,0 +1,13 @@
+{
+  "name": "CodSessao",
+  "dataType": "string",
+  "sourceColumn": "CodSessao",
+  "lineageTag": "6ae02364-b393-49f3-8d31-b365d6d9704c",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

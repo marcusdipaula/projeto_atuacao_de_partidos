@@ -1,0 +1,13 @@
+{
+  "name": "URL_partido",
+  "dataType": "string",
+  "sourceColumn": "URL_partido",
+  "lineageTag": "55be50f1-ccc2-4254-893c-5339254e2a65",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

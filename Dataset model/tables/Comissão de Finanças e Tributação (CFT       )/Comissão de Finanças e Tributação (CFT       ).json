@@ -1,0 +1,15 @@
+{
+  "name": "Comissão de Finanças e Tributação (CFT       )",
+  "isHidden": true,
+  "lineageTag": "2ddd29b5-b6f6-425d-bb5a-98583baf508f",
+  "annotations": [
+    {
+      "name": "PBI_NavigationStepName",
+      "value": "Navegação"
+    },
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    }
+  ]
+}

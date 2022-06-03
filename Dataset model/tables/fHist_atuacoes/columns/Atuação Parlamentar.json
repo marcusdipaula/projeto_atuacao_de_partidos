@@ -1,0 +1,13 @@
+{
+  "name": "Atuação Parlamentar",
+  "dataType": "string",
+  "sourceColumn": "Atuação Parlamentar",
+  "lineageTag": "384fee33-e517-45ca-aeb1-4d380b813071",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Pareceres, Substitutivos e Votos",
+  "dataType": "string",
+  "isHidden": true,
+  "sourceColumn": "Pareceres, Substitutivos e Votos",
+  "lineageTag": "f61bb7e5-a6c9-4552-9c4b-392dbeaaffb5",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_ChangedProperties",
+      "value": "[\"IsHidden\"]"
+    }
+  ]
+}

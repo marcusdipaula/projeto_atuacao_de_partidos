@@ -1,0 +1,15 @@
+{
+  "name": "Composicao_Camara_Senado",
+  "isHidden": true,
+  "lineageTag": "e0532769-a64e-47b4-b314-8d67a5386231",
+  "annotations": [
+    {
+      "name": "PBI_NavigationStepName",
+      "value": "Navigation"
+    },
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    }
+  ]
+}

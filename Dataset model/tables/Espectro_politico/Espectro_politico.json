@@ -1,0 +1,14 @@
+{
+  "name": "Espectro_politico",
+  "lineageTag": "9d58eb6a-302b-429d-a4e3-18d807bf24a6",
+  "annotations": [
+    {
+      "name": "PBI_NavigationStepName",
+      "value": "Navigation"
+    },
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    }
+  ]
+}

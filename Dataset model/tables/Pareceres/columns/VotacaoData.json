@@ -1,0 +1,23 @@
+{
+  "name": "VotacaoData",
+  "dataType": "dateTime",
+  "isHidden": true,
+  "sourceColumn": "VotacaoData",
+  "formatString": "Long Date",
+  "lineageTag": "5e694d5c-dfb0-45ea-afe9-1ed3d8e895e1",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "UnderlyingDateTimeDataType",
+      "value": "Date"
+    },
+    {
+      "name": "PBI_ChangedProperties",
+      "value": "[\"IsHidden\"]"
+    }
+  ]
+}

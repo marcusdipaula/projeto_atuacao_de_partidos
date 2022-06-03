@@ -1,0 +1,139 @@
+{
+  "name": "pt-BR",
+  "linguisticMetadata": {
+    "content": {
+      "Version": "2.0.0",
+      "Language": "en-US",
+      "DynamicImprovement": "HighConfidence",
+      "Entities": {
+        "métricas.atuacoes": {
+          "Definition": {
+            "Binding": {
+              "ConceptualEntity": "Métricas",
+              "ConceptualProperty": "atuacoes"
+            }
+          },
+          "State": "Generated",
+          "Terms": [
+            {
+              "Atuações": {
+                "State": "Suggested",
+                "Source": {
+                  "Type": "External",
+                  "Agent": "PowerBI.VisualColumnRename"
+                },
+                "Weight": 0.9
+              }
+            }
+          ]
+        },
+        "métricas.atuacao": {
+          "Definition": {
+            "Binding": {
+              "ConceptualEntity": "Métricas",
+              "ConceptualProperty": "% atuacao"
+            }
+          },
+          "State": "Generated",
+          "Terms": [
+            {
+              "Parlamentares Atuantes": {
+                "State": "Suggested",
+                "Source": {
+                  "Type": "External",
+                  "Agent": "PowerBI.VisualColumnRename"
+                },
+                "Weight": 0.9
+              }
+            }
+          ]
+        },
+        "métricas.atuacoes_nao_validas": {
+          "Definition": {
+            "Binding": {
+              "ConceptualEntity": "Métricas",
+              "ConceptualProperty": "% atuacoes nao validas"
+            }
+          },
+          "State": "Generated",
+          "Terms": [
+            {
+              "Parlamentares Não Atuantes": {
+                "State": "Suggested",
+                "Source": {
+                  "Type": "External",
+                  "Agent": "PowerBI.VisualColumnRename"
+                },
+                "Weight": 0.9
+              }
+            }
+          ]
+        },
+        "fhist_atuacoes.objeto_de_atuação": {
+          "Definition": {
+            "Binding": {
+              "ConceptualEntity": "fHist_atuacoes",
+              "ConceptualProperty": "Objeto de atuação"
+            }
+          },
+          "State": "Generated",
+          "Terms": [
+            {
+              "Objeto de atuação": {
+                "State": "Suggested",
+                "Source": {
+                  "Type": "External",
+                  "Agent": "PowerBI.VisualColumnRename"
+                },
+                "Weight": 0.9
+              }
+            }
+          ]
+        },
+        "espectro_politico.espectro": {
+          "Definition": {
+            "Binding": {
+              "ConceptualEntity": "Espectro_politico",
+              "ConceptualProperty": "Espectro"
+            }
+          },
+          "State": "Generated",
+          "Terms": [
+            {
+              "Espectro": {
+                "State": "Suggested",
+                "Source": {
+                  "Type": "External",
+                  "Agent": "PowerBI.VisualColumnRename"
+                },
+                "Weight": 0.9
+              }
+            }
+          ]
+        },
+        "ddeputados.uf": {
+          "Definition": {
+            "Binding": {
+              "ConceptualEntity": "dDeputados",
+              "ConceptualProperty": "UF"
+            }
+          },
+          "State": "Generated",
+          "Terms": [
+            {
+              "top 3 UF": {
+                "State": "Suggested",
+                "Source": {
+                  "Type": "External",
+                  "Agent": "PowerBI.VisualColumnRename"
+                },
+                "Weight": 0.9
+              }
+            }
+          ]
+        }
+      }
+    },
+    "contentType": "json"
+  }
+}

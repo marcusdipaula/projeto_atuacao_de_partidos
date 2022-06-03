@@ -1,0 +1,18 @@
+{
+  "name": "Local",
+  "dataType": "string",
+  "isHidden": true,
+  "sourceColumn": "Local",
+  "lineageTag": "ca72dcd9-98c6-4c8a-94f5-1a793d1f0e9f",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_ChangedProperties",
+      "value": "[\"IsHidden\"]"
+    }
+  ]
+}

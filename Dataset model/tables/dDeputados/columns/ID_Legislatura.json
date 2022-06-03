@@ -1,0 +1,13 @@
+{
+  "name": "ID_Legislatura",
+  "dataType": "string",
+  "sourceColumn": "ID_Legislatura",
+  "lineageTag": "63245ebf-e8ec-4e88-958a-470257ce8f07",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

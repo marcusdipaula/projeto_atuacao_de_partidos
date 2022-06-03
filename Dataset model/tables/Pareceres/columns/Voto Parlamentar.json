@@ -1,0 +1,18 @@
+{
+  "name": "Voto Parlamentar",
+  "dataType": "string",
+  "isHidden": true,
+  "sourceColumn": "Voto Parlamentar",
+  "lineageTag": "396f8e1f-0abb-47df-bbb9-c5507f396112",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_ChangedProperties",
+      "value": "[\"IsHidden\"]"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Coligacao",
+  "dataType": "string",
+  "isHidden": true,
+  "sourceColumn": "Coligacao",
+  "lineageTag": "5b216c70-64aa-4182-bde5-5bd5cc262d3f",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_ChangedProperties",
+      "value": "[\"IsHidden\"]"
+    }
+  ]
+}

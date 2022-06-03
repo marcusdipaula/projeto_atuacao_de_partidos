@@ -1,0 +1,13 @@
+{
+  "name": "VotacaoResumoFull",
+  "dataType": "string",
+  "sourceColumn": "VotacaoResumoFull",
+  "lineageTag": "f842b98a-1bad-49c7-a9e4-69d168e237b7",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "fHist_atuacoes",
+  "lineageTag": "333e23b3-7fef-4d65-adde-d99a8f359fed",
+  "annotations": [
+    {
+      "name": "PBI_NavigationStepName",
+      "value": "Navigation"
+    },
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "8263838b-de3e-4e1a-add3-a00c4a4ac234",
+  "fromTable": "dDeputados",
+  "fromColumn": "Partido",
+  "toTable": "Espectro_politico",
+  "toColumn": "Partido",
+  "crossFilteringBehavior": "bothDirections"
+}

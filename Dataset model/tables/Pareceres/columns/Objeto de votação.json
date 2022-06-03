@@ -1,0 +1,18 @@
+{
+  "name": "Objeto de votação",
+  "dataType": "string",
+  "isHidden": true,
+  "sourceColumn": "Objeto de votação",
+  "lineageTag": "7e8c728d-8059-4271-ae14-178cf9ba4a48",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_ChangedProperties",
+      "value": "[\"IsHidden\"]"
+    }
+  ]
+}

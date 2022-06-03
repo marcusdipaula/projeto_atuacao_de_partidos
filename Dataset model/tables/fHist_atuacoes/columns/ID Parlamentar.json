@@ -1,0 +1,13 @@
+{
+  "name": "ID Parlamentar",
+  "dataType": "string",
+  "sourceColumn": "ID Parlamentar",
+  "lineageTag": "720ba653-8e7c-4285-939a-1c5b3e93ff0c",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

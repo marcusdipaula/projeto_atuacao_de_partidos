@@ -1,0 +1,18 @@
+{
+  "name": "Column1.sigla",
+  "dataType": "string",
+  "isHidden": true,
+  "sourceColumn": "Column1.sigla",
+  "lineageTag": "ca52047a-cd79-4506-a9b8-e7665329df29",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_ChangedProperties",
+      "value": "[\"IsHidden\"]"
+    }
+  ]
+}

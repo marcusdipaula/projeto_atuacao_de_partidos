@@ -1,0 +1,18 @@
+{
+  "name": "Autor",
+  "dataType": "string",
+  "isHidden": true,
+  "sourceColumn": "Autor",
+  "lineageTag": "7398f0b8-88bf-4e96-b4b0-1aed4ffa56e6",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_ChangedProperties",
+      "value": "[\"IsHidden\"]"
+    }
+  ]
+}

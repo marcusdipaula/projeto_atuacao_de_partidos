@@ -1,0 +1,15 @@
+{
+  "name": "tiposEvento",
+  "isHidden": true,
+  "lineageTag": "997ffae1-3541-4129-ab68-a09d686ddb67",
+  "annotations": [
+    {
+      "name": "PBI_NavigationStepName",
+      "value": "Navegação"
+    },
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    }
+  ]
+}

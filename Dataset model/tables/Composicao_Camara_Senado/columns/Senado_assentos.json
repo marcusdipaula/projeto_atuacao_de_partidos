@@ -1,0 +1,19 @@
+{
+  "name": "Senado_assentos",
+  "dataType": "int64",
+  "isHidden": true,
+  "sourceColumn": "Senado_assentos",
+  "formatString": "0",
+  "lineageTag": "36652b77-5e2c-47b0-8d94-29212b8196cf",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_ChangedProperties",
+      "value": "[\"IsHidden\",\"DataType\"]"
+    }
+  ]
+}

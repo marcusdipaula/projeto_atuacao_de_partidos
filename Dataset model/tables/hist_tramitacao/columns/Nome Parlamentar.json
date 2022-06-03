@@ -1,0 +1,18 @@
+{
+  "name": "Nome Parlamentar",
+  "dataType": "string",
+  "isHidden": true,
+  "sourceColumn": "Nome Parlamentar",
+  "lineageTag": "0907b2cd-7bd7-467b-a6ea-3a6a0cd739e8",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_ChangedProperties",
+      "value": "[\"IsHidden\"]"
+    }
+  ]
+}

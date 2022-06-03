@@ -1,0 +1,15 @@
+{
+  "name": "Comissão de Constituição e Justiça e de Cidadania (CCJC      )",
+  "isHidden": true,
+  "lineageTag": "74bdc343-9ee1-4bab-9679-f05baab8d0a7",
+  "annotations": [
+    {
+      "name": "PBI_NavigationStepName",
+      "value": "Navegação"
+    },
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    }
+  ]
+}

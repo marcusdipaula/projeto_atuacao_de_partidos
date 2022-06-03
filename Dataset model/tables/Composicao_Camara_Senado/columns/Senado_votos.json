@@ -1,0 +1,19 @@
+{
+  "name": "Senado_votos",
+  "dataType": "int64",
+  "isHidden": true,
+  "sourceColumn": "Senado_votos",
+  "formatString": "0",
+  "lineageTag": "fd308a5c-8a97-43c5-96d3-bf5395e63328",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_ChangedProperties",
+      "value": "[\"IsHidden\",\"DataType\"]"
+    }
+  ]
+}

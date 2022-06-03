@@ -1,0 +1,23 @@
+{
+  "name": "Data de Apresentação",
+  "dataType": "dateTime",
+  "isHidden": true,
+  "sourceColumn": "Data de Apresentação",
+  "formatString": "Long Date",
+  "lineageTag": "fb48b552-dc63-4972-a031-3fbcb8ba9a8e",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "UnderlyingDateTimeDataType",
+      "value": "Date"
+    },
+    {
+      "name": "PBI_ChangedProperties",
+      "value": "[\"IsHidden\"]"
+    }
+  ]
+}

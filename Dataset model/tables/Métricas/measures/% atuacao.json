@@ -1,0 +1,13 @@
+{
+  "name": "% atuacao",
+  "expression": [
+    "",
+    "var totalatuacao = COUNT(fHist_atuacoes[Atuação Parlamentar])",
+    "var totalvalid = CALCULATE(COUNT(fHist_atuacoes[Atuação Parlamentar]),fHist_atuacoes[Atuação Parlamentar]<>\"Votação - Abstenção\" && fHist_atuacoes[Atuação Parlamentar]<>\"Votação - Ausente\"&& fHist_atuacoes[Atuação Parlamentar]<>\"Votação - Art. 17\")",
+    "return",
+    "",
+    "DIVIDE(totalvalid,totalatuacao,BLANK())"
+  ],
+  "formatString": "0%;-0%;0%",
+  "lineageTag": "f73cd7f4-54f3-450d-b4fb-6f43d0078c80"
+}

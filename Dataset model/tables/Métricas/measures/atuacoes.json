@@ -1,0 +1,9 @@
+{
+  "name": "atuacoes",
+  "expression": [
+    "",
+    "    COUNT(fHist_atuacoes[Atuação Parlamentar])"
+  ],
+  "formatString": "0",
+  "lineageTag": "9276d47f-0935-4a81-a2b0-580cfefbfb7d"
+}

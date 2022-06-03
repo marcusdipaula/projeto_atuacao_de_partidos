@@ -1,0 +1,13 @@
+{
+  "name": "Espectro",
+  "dataType": "string",
+  "sourceColumn": "Espectro",
+  "lineageTag": "defcb48f-0611-462b-891d-61ac385d775b",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Partido Parlamentar",
+  "dataType": "string",
+  "sourceColumn": "Partido Parlamentar",
+  "lineageTag": "ba6270ba-dac7-4f68-828f-9abd4ab93dc4",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Objeto de atuação",
+  "dataType": "string",
+  "sourceColumn": "Objeto de atuação",
+  "lineageTag": "120b16f8-96c7-4aef-8627-2bd7add84a5b",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}
