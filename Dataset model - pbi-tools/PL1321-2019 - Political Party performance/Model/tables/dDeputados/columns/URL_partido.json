@@ -1,0 +1,12 @@
+{
+  "name": "URL_partido",
+  "dataType": "string",
+  "sourceColumn": "URL_partido",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

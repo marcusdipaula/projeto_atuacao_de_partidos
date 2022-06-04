@@ -1,0 +1,96 @@
+{
+  "name": "PL1321-2019 - Political Party performance",
+  "compatibilityLevel": 1550,
+  "model": {
+    "culture": "pt-BR",
+    "dataAccessOptions": {
+      "legacyRedirects": true,
+      "returnErrorValuesAsNull": true
+    },
+    "defaultPowerBIDataSourceVersion": "powerBI_V3",
+    "sourceQueryCulture": "pt-BR",
+    "relationships": [
+      {
+        "name": "b66e634b-b02c-4a95-8436-7865a69191b2",
+        "fromTable": "fHist_atuacoes",
+        "fromColumn": "Nome Parlamentar",
+        "toTable": "dDeputados",
+        "toColumn": "Parlamentar",
+        "crossFilteringBehavior": "bothDirections"
+      },
+      {
+        "name": "b0672f74-55f6-4fb4-bb38-6747e69813e6",
+        "fromTable": "hist_tramitacao",
+        "fromColumn": "Nome Parlamentar",
+        "toTable": "dDeputados",
+        "toColumn": "Parlamentar",
+        "crossFilteringBehavior": "bothDirections"
+      },
+      {
+        "name": "888d4a72-5096-4580-8dc9-1d5f20c9da11",
+        "fromCardinality": "one",
+        "fromTable": "Requerimentos",
+        "fromColumn": "Nome Parlamentar",
+        "toTable": "dDeputados",
+        "toColumn": "Parlamentar",
+        "crossFilteringBehavior": "bothDirections"
+      },
+      {
+        "name": "3efcd71a-a9ef-43ac-84dd-8b963537ebec",
+        "fromTable": "Pareceres",
+        "fromColumn": "Nome Parlamentar",
+        "toTable": "dDeputados",
+        "toColumn": "Parlamentar",
+        "crossFilteringBehavior": "bothDirections"
+      },
+      {
+        "name": "81de2055-5360-4c62-b084-5e0848101efb",
+        "fromTable": "Emendas",
+        "fromColumn": "Nome Parlamentar",
+        "toTable": "dDeputados",
+        "toColumn": "Parlamentar",
+        "crossFilteringBehavior": "bothDirections"
+      },
+      {
+        "name": "d7c4bdd6-8b8c-40bf-b844-a33df368de38",
+        "fromTable": "fHist_atuacoes",
+        "fromColumn": "Partido Parlamentar",
+        "toTable": "Composicao_Camara_Senado",
+        "toColumn": "Partido",
+        "crossFilteringBehavior": "bothDirections"
+      },
+      {
+        "name": "8263838b-de3e-4e1a-add3-a00c4a4ac234",
+        "fromTable": "dDeputados",
+        "fromColumn": "Partido",
+        "toTable": "Espectro_politico",
+        "toColumn": "Partido",
+        "crossFilteringBehavior": "bothDirections"
+      },
+      {
+        "name": "ad294fee-9718-4743-8eab-13625b35a0eb",
+        "fromCardinality": "one",
+        "fromTable": "Composicao_Camara_Senado",
+        "fromColumn": "Partido",
+        "toTable": "Espectro_politico",
+        "toColumn": "Partido",
+        "isActive": false,
+        "crossFilteringBehavior": "bothDirections"
+      }
+    ],
+    "annotations": [
+      {
+        "name": "__PBI_TimeIntelligenceEnabled",
+        "value": "0"
+      },
+      {
+        "name": "PBIDesktopVersion",
+        "value": "2.105.923.0 (22.05)"
+      },
+      {
+        "name": "PBI_QueryOrder",
+        "value": "[\"hist_tramitacao\",\"tiposEvento\",\"fHist_atuacoes\",\"Métricas\",\"Emendas\",\"Requerimentos\",\"Pareceres\",\"Comissão de Finanças e Tributação (CFT       )\",\"Comissão de Constituição e Justiça e de Cidadania (CCJC      )\",\"dDeputados\",\"Composicao_Camara_Senado\",\"Espectro_politico\",\"Page001\",\"Page002\",\"Page003\",\"Page004\"]"
+      }
+    ]
+  }
+}

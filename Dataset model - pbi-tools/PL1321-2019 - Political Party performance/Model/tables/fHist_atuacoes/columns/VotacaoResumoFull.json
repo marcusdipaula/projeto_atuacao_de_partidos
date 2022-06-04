@@ -1,0 +1,12 @@
+{
+  "name": "VotacaoResumoFull",
+  "dataType": "string",
+  "sourceColumn": "VotacaoResumoFull",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

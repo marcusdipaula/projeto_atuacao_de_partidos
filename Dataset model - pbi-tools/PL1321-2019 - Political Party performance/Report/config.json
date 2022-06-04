@@ -1,0 +1,39 @@
+{
+  "version": "5.9",
+  "themeCollection": {
+    "baseTheme": {
+      "name": "CY18SU07",
+      "version": "4.0",
+      "type": 2
+    }
+  },
+  "activeSectionIndex": 1,
+  "defaultDrillFilterOtherVisuals": true,
+  "slowDataSourceSettings": {
+    "isCrossHighlightingDisabled": false,
+    "isSlicerSelectionsButtonEnabled": false,
+    "isFilterSelectionsButtonEnabled": false,
+    "isFieldWellButtonEnabled": false,
+    "isApplyAllButtonEnabled": false
+  },
+  "linguisticSchemaSyncVersion": 2,
+  "settings": {
+    "useStylableVisualContainerHeader": true,
+    "exportDataMode": 1
+  },
+  "objects": {
+    "outspacePane": [
+      {
+        "properties": {
+          "expanded": {
+            "expr": {
+              "Literal": {
+                "Value": "false"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

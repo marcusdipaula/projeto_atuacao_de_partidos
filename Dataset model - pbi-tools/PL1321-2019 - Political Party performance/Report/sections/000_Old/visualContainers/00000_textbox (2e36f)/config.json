@@ -1,0 +1,41 @@
+{
+  "name": "2e36f054270882bb65ce",
+  "layouts": [
+    {
+      "id": 0,
+      "position": {
+        "x": 3.4491017964071853,
+        "y": 0,
+        "z": 5000,
+        "width": 647.56886227544908,
+        "height": 53.461077844311376
+      }
+    }
+  ],
+  "singleVisual": {
+    "visualType": "textbox",
+    "drillFilterOtherVisuals": true,
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "Atuação dos Partidos na PL 1321/2019",
+                    "textStyle": {
+                      "fontWeight": "bold",
+                      "fontFamily": "Segoe (Bold)",
+                      "fontSize": "24pt"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

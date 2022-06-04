@@ -1,0 +1,12 @@
+{
+  "name": "UF",
+  "dataType": "string",
+  "sourceColumn": "UF",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

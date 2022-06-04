@@ -1,0 +1,213 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 1230.545732307329,
+            "y": 0
+          },
+          "nodeIndex": "tiposEvento",
+          "size": {
+            "height": 175,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 30.801348482062952
+          },
+          "nodeIndex": "hist_tramitacao",
+          "size": {
+            "height": 308,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 274,
+            "y": 0
+          },
+          "nodeIndex": "Métricas",
+          "size": {
+            "height": 144,
+            "width": 241
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1504.5457323073292,
+            "y": 39.640642433317751
+          },
+          "nodeIndex": "Comissão de Constituição e Justiça e de Cidadania (CCJC      )",
+          "size": {
+            "height": 213,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 956.545732307329,
+            "y": 145.66493847898931
+          },
+          "nodeIndex": "Comissão de Finanças e Tributação (CFT       )",
+          "size": {
+            "height": 213,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 868.7280851454218,
+            "y": 558.96121791309554
+          },
+          "nodeIndex": "Emendas",
+          "size": {
+            "height": 194,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 594.7280851454218,
+            "y": 716.04676639700051
+          },
+          "nodeIndex": "Pareceres",
+          "size": {
+            "height": 213,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 89.3243835878215,
+            "y": 703.37334173073782
+          },
+          "nodeIndex": "Requerimentos",
+          "size": {
+            "height": 194,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 532.57970117001423,
+            "y": 243.14899248429555
+          },
+          "nodeIndex": "dDeputados",
+          "size": {
+            "height": 251,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 278.45364960424115,
+            "y": 293.55916247363734
+          },
+          "nodeIndex": "fHist_atuacoes",
+          "size": {
+            "height": 337,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 17.25591779893557,
+            "y": 426
+          },
+          "nodeIndex": "Composicao_Camara_Senado",
+          "size": {
+            "height": 232,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 694.72054957841056,
+            "y": 66.148992484295547
+          },
+          "nodeIndex": "Espectro_politico",
+          "size": {
+            "height": 137,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1778.5457323073292,
+            "y": 0
+          },
+          "nodeIndex": "Page001",
+          "size": {
+            "height": 118,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2052.5457323073292,
+            "y": 0
+          },
+          "nodeIndex": "Page002",
+          "size": {
+            "height": 118,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2326.5457323073292,
+            "y": 0
+          },
+          "nodeIndex": "Page003",
+          "size": {
+            "height": 118,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2600.5457323073292,
+            "y": 0
+          },
+          "nodeIndex": "Page004",
+          "size": {
+            "height": 118,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "Todas as tabelas",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false
+    }
+  ],
+  "selectedDiagram": "Todas as tabelas",
+  "defaultDiagram": "Todas as tabelas"
+}

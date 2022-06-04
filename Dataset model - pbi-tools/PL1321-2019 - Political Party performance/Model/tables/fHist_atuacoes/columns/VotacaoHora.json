@@ -1,0 +1,17 @@
+{
+  "name": "VotacaoHora",
+  "dataType": "dateTime",
+  "sourceColumn": "VotacaoHora",
+  "formatString": "Long Time",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "UnderlyingDateTimeDataType",
+      "value": "Time"
+    }
+  ]
+}

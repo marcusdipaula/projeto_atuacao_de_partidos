@@ -1,0 +1,12 @@
+{
+  "name": "URL_foto",
+  "dataType": "string",
+  "sourceColumn": "URL_foto",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Objeto de atuação",
+  "dataType": "string",
+  "sourceColumn": "Objeto de atuação",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

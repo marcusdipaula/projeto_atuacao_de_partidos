@@ -1,0 +1,15 @@
+{
+  "type": "calculated",
+  "name": "Partido",
+  "dataType": "int64",
+  "isDataTypeInferred": true,
+  "isHidden": true,
+  "formatString": "0",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

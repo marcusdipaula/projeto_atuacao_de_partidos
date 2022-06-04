@@ -1,0 +1,17 @@
+{
+  "name": "Objeto de votação",
+  "dataType": "string",
+  "isHidden": true,
+  "sourceColumn": "Objeto de votação",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_ChangedProperties",
+      "value": "[\"IsHidden\"]"
+    }
+  ]
+}

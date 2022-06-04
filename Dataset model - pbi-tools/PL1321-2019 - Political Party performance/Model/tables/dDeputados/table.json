@@ -1,0 +1,22 @@
+{
+  "name": "dDeputados",
+  "partitions": [
+    {
+      "name": "dDeputados-2f5cccdf-d056-4d86-9a26-1112b046aecc",
+      "mode": "import",
+      "source": {
+        "type": "m"
+      }
+    }
+  ],
+  "annotations": [
+    {
+      "name": "PBI_NavigationStepName",
+      "value": "Navegação"
+    },
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    }
+  ]
+}

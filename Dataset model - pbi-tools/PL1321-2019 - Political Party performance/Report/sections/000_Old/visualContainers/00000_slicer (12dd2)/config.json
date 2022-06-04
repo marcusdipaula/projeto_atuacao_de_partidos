@@ -1,0 +1,70 @@
+{
+  "name": "12dd2dc64ee9e5440a81",
+  "layouts": [
+    {
+      "id": 0,
+      "position": {
+        "x": 1.8934911242612107,
+        "y": 58.194805654962266,
+        "z": 9000,
+        "width": 130.20359281437123,
+        "height": 68.119760479041915
+      }
+    }
+  ],
+  "singleVisual": {
+    "visualType": "slicer",
+    "projections": {
+      "Values": [
+        {
+          "queryRef": "dDeputados.UF",
+          "active": true
+        }
+      ]
+    },
+    "prototypeQuery": {
+      "Version": 2,
+      "From": [
+        {
+          "Name": "d",
+          "Entity": "dDeputados",
+          "Type": 0
+        }
+      ],
+      "Select": [
+        {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Source": "d"
+              }
+            },
+            "Property": "UF"
+          },
+          "Name": "dDeputados.UF"
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true,
+    "objects": {
+      "data": [
+        {
+          "properties": {
+            "mode": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Dropdown'"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "general": [
+        {
+          "properties": {}
+        }
+      ]
+    }
+  }
+}

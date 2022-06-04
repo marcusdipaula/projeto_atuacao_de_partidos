@@ -1,0 +1,23 @@
+{
+  "name": "Composicao_Camara_Senado",
+  "isHidden": true,
+  "partitions": [
+    {
+      "name": "Composicao_Camara_Senado-66e7d751-2b82-414a-a68d-6ee07daef842",
+      "mode": "import",
+      "source": {
+        "type": "m"
+      }
+    }
+  ],
+  "annotations": [
+    {
+      "name": "PBI_NavigationStepName",
+      "value": "Navigation"
+    },
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    }
+  ]
+}

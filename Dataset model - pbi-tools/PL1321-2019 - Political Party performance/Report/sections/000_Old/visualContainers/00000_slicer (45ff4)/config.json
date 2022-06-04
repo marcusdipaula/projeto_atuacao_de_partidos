@@ -1,0 +1,70 @@
+{
+  "name": "45ff4cf8eb97a37e1022",
+  "layouts": [
+    {
+      "id": 0,
+      "position": {
+        "x": 480.45636537575791,
+        "y": 58.194805654962266,
+        "z": 4000,
+        "width": 196.59880239520956,
+        "height": 68.119760479041915
+      }
+    }
+  ],
+  "singleVisual": {
+    "visualType": "slicer",
+    "projections": {
+      "Values": [
+        {
+          "queryRef": "dDeputados.Parlamentar",
+          "active": true
+        }
+      ]
+    },
+    "prototypeQuery": {
+      "Version": 2,
+      "From": [
+        {
+          "Name": "d",
+          "Entity": "dDeputados",
+          "Type": 0
+        }
+      ],
+      "Select": [
+        {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Source": "d"
+              }
+            },
+            "Property": "Parlamentar"
+          },
+          "Name": "dDeputados.Parlamentar"
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true,
+    "objects": {
+      "data": [
+        {
+          "properties": {
+            "mode": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Dropdown'"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "general": [
+        {
+          "properties": {}
+        }
+      ]
+    }
+  }
+}

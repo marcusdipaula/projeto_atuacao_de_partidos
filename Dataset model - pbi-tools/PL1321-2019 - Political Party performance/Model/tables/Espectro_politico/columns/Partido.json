@@ -1,0 +1,12 @@
+{
+  "name": "Partido",
+  "dataType": "string",
+  "sourceColumn": "Partido",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

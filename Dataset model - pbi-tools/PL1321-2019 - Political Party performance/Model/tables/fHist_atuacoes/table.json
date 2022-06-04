@@ -1,0 +1,22 @@
+{
+  "name": "fHist_atuacoes",
+  "partitions": [
+    {
+      "name": "fHist_atuacoes-a5b0117b-2905-410f-a2bf-8d124d6f2864",
+      "mode": "import",
+      "source": {
+        "type": "m"
+      }
+    }
+  ],
+  "annotations": [
+    {
+      "name": "PBI_NavigationStepName",
+      "value": "Navigation"
+    },
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    }
+  ]
+}

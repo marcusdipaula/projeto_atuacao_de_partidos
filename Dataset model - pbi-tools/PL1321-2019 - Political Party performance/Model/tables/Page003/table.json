@@ -1,0 +1,23 @@
+{
+  "name": "Page003",
+  "isHidden": true,
+  "partitions": [
+    {
+      "name": "Page003-f39c5b8e-7d0d-4780-9b51-9e72ad1dd53e",
+      "mode": "import",
+      "source": {
+        "type": "m"
+      }
+    }
+  ],
+  "annotations": [
+    {
+      "name": "PBI_NavigationStepName",
+      "value": "Navigation"
+    },
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    }
+  ]
+}

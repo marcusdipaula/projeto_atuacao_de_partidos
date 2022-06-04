@@ -1,0 +1,12 @@
+{
+  "name": "Parlamentar",
+  "dataType": "string",
+  "sourceColumn": "Parlamentar",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

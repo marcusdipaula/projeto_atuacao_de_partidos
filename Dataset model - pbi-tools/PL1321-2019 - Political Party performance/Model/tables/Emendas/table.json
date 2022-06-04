@@ -1,0 +1,23 @@
+{
+  "name": "Emendas",
+  "isHidden": true,
+  "partitions": [
+    {
+      "name": "Emendas-e89a4129-43e6-48b6-b0f2-5e576ddabf8c",
+      "mode": "import",
+      "source": {
+        "type": "m"
+      }
+    }
+  ],
+  "annotations": [
+    {
+      "name": "PBI_NavigationStepName",
+      "value": "Navegação"
+    },
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    }
+  ]
+}

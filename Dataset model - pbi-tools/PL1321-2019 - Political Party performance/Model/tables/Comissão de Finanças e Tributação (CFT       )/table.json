@@ -1,0 +1,23 @@
+{
+  "name": "Comissão de Finanças e Tributação (CFT       )",
+  "isHidden": true,
+  "partitions": [
+    {
+      "name": "Comissão de Finanças e Tributação (CFT       )-fc1bb6a5-72fa-4fdd-a8c2-55696fb86e23",
+      "mode": "import",
+      "source": {
+        "type": "m"
+      }
+    }
+  ],
+  "annotations": [
+    {
+      "name": "PBI_NavigationStepName",
+      "value": "Navegação"
+    },
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    }
+  ]
+}

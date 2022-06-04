@@ -1,0 +1,12 @@
+{
+  "name": "ID_Legislatura",
+  "dataType": "string",
+  "sourceColumn": "ID_Legislatura",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

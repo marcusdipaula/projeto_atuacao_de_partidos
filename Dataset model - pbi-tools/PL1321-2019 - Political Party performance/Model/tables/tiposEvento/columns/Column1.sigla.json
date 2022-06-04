@@ -1,0 +1,17 @@
+{
+  "name": "Column1.sigla",
+  "dataType": "string",
+  "isHidden": true,
+  "sourceColumn": "Column1.sigla",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_ChangedProperties",
+      "value": "[\"IsHidden\"]"
+    }
+  ]
+}

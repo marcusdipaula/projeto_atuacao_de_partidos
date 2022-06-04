@@ -1,0 +1,92 @@
+{
+  "name": "b9a8f413570dc4053d91",
+  "layouts": [
+    {
+      "id": 0,
+      "position": {
+        "x": 650.15568862275438,
+        "y": 493.22155688622752,
+        "z": 13000,
+        "width": 629.46107784431138,
+        "height": 226.77844311377243
+      }
+    }
+  ],
+  "singleVisual": {
+    "visualType": "WordCloud1447959067750",
+    "projections": {
+      "Category": [
+        {
+          "queryRef": "Page004.Texto_PL"
+        }
+      ]
+    },
+    "prototypeQuery": {
+      "Version": 2,
+      "From": [
+        {
+          "Name": "p",
+          "Entity": "Page004",
+          "Type": 0
+        }
+      ],
+      "Select": [
+        {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Source": "p"
+              }
+            },
+            "Property": "Texto_PL"
+          },
+          "Name": "Page004.Texto_PL"
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true,
+    "objects": {
+      "rotateText": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "performance": [
+        {
+          "properties": {
+            "preestimate": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "vcObjects": {
+      "title": [
+        {
+          "properties": {
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Nuvem de palavras do PL 1321/2019'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

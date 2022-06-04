@@ -1,0 +1,12 @@
+{
+  "name": "Atuação Parlamentar",
+  "dataType": "string",
+  "sourceColumn": "Atuação Parlamentar",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

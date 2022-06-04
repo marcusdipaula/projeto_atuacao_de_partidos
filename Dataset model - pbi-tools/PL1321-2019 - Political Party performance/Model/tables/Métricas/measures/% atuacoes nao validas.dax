@@ -1,0 +1,6 @@
+
+var totalatuacoes = COUNT(fHist_atuacoes[Atuação Parlamentar])
+var totalnvalid = CALCULATE(COUNT(fHist_atuacoes[Atuação Parlamentar]),fHist_atuacoes[Atuação Parlamentar]="Votação - Abstenção" || fHist_atuacoes[Atuação Parlamentar]="Votação - Ausente" || fHist_atuacoes[Atuação Parlamentar]="Votação - Art. 17")
+return
+
+DIVIDE(totalnvalid,totalatuacoes,BLANK())

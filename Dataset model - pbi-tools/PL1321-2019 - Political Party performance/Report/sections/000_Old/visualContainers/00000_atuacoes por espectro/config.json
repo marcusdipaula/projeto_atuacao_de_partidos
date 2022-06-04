@@ -1,0 +1,176 @@
+{
+  "name": "149a283dc587e46392ec",
+  "layouts": [
+    {
+      "id": 0,
+      "position": {
+        "x": 688.18181818181813,
+        "y": 99.297768100163339,
+        "z": 0,
+        "width": 310.90909090909088,
+        "height": 150
+      }
+    }
+  ],
+  "singleVisual": {
+    "visualType": "lineChart",
+    "projections": {
+      "Category": [
+        {
+          "queryRef": "Espectro_politico.Espectro",
+          "active": true
+        }
+      ],
+      "Y": [
+        {
+          "queryRef": "Métricas.atuacoes"
+        }
+      ],
+      "Tooltips": [
+        {
+          "queryRef": "Divide(Métricas.atuacoes, ScopedEval(Métricas.atuacoes, []))"
+        }
+      ]
+    },
+    "prototypeQuery": {
+      "Version": 2,
+      "From": [
+        {
+          "Name": "e",
+          "Entity": "Espectro_politico",
+          "Type": 0
+        },
+        {
+          "Name": "m",
+          "Entity": "Métricas",
+          "Type": 0
+        }
+      ],
+      "Select": [
+        {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Source": "e"
+              }
+            },
+            "Property": "Espectro"
+          },
+          "Name": "Espectro_politico.Espectro"
+        },
+        {
+          "Measure": {
+            "Expression": {
+              "SourceRef": {
+                "Source": "m"
+              }
+            },
+            "Property": "atuacoes"
+          },
+          "Name": "Métricas.atuacoes"
+        },
+        {
+          "Arithmetic": {
+            "Left": {
+              "Measure": {
+                "Expression": {
+                  "SourceRef": {
+                    "Source": "m"
+                  }
+                },
+                "Property": "atuacoes"
+              }
+            },
+            "Right": {
+              "ScopedEval": {
+                "Expression": {
+                  "Measure": {
+                    "Expression": {
+                      "SourceRef": {
+                        "Source": "m"
+                      }
+                    },
+                    "Property": "atuacoes"
+                  }
+                },
+                "Scope": []
+              }
+            },
+            "Operator": 3
+          },
+          "Name": "Divide(Métricas.atuacoes, ScopedEval(Métricas.atuacoes, []))"
+        }
+      ],
+      "OrderBy": [
+        {
+          "Direction": 2,
+          "Expression": {
+            "Measure": {
+              "Expression": {
+                "SourceRef": {
+                  "Source": "m"
+                }
+              },
+              "Property": "atuacoes"
+            }
+          }
+        }
+      ]
+    },
+    "columnProperties": {
+      "Divide(Métricas.atuacoes, ScopedEval(Métricas.atuacoes, []))": {
+        "displayName": "% atuacoes no espectro"
+      },
+      "Espectro_politico.Espectro": {
+        "displayName": "Espectro"
+      }
+    },
+    "drillFilterOtherVisuals": true,
+    "hasDefaultSort": true,
+    "objects": {
+      "dataPoint": [
+        {
+          "properties": {
+            "fill": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "ThemeDataColor": {
+                      "ColorId": 9,
+                      "Percent": -0.25
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Métricas.atuacoes"
+          }
+        }
+      ]
+    },
+    "vcObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'atuacoes por espectro'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

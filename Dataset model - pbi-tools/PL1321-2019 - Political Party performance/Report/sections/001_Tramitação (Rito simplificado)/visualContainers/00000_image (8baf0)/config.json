@@ -1,0 +1,36 @@
+{
+  "name": "8baf09ec79b110854d63",
+  "layouts": [
+    {
+      "id": 0,
+      "position": {
+        "x": 150.89820359281435,
+        "y": 0,
+        "z": 2,
+        "width": 889.005988023952,
+        "height": 719.99999999999989
+      }
+    }
+  ],
+  "singleVisual": {
+    "visualType": "image",
+    "drillFilterOtherVisuals": true,
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "imageUrl": {
+              "expr": {
+                "ResourcePackageItem": {
+                  "PackageName": "RegisteredResources",
+                  "PackageType": 1,
+                  "ItemName": "tramitacao-de-proposicoes-no-congresso-rito-simplificado-diana-yukari-gabriela-caesar-camara-dos-deputados-g1-10-maio-201904537062366023403.jpg"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Camara_votos",
+  "dataType": "int64",
+  "isHidden": true,
+  "sourceColumn": "Camara_votos",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    },
+    {
+      "name": "PBI_ChangedProperties",
+      "value": "[\"IsHidden\",\"DataType\"]"
+    }
+  ]
+}

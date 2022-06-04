@@ -1,0 +1,14 @@
+<LinguisticSchema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Language="en-US" DynamicImprovement="Default" xmlns="http://schemas.microsoft.com/sqlserver/2016/01/linguisticschema">
+  <Entities>
+    <Entity Name="Tramitação_Rito_simplificado" ConceptualEntity="Pod1" Source="Generated">
+      <Words>
+        <Word>Tramitação (Rito simplificado)</Word>
+      </Words>
+    </Entity>
+    <Entity Name="Old" ConceptualEntity="Pod" Source="Generated">
+      <Words>
+        <Word>Old</Word>
+      </Words>
+    </Entity>
+  </Entities>
+</LinguisticSchema>

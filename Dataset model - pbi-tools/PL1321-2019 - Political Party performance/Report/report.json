@@ -1,0 +1,60 @@
+{
+  "id": 0,
+  "layoutOptimization": 0,
+  "pods": [
+    {
+      "boundSection": "ReportSection34c74f00d5d0bb4ab7ab",
+      "config": "{}",
+      "name": "Pod1"
+    },
+    {
+      "boundSection": "ReportSection",
+      "config": "{}",
+      "name": "Pod"
+    }
+  ],
+  "resourcePackages": [
+    {
+      "resourcePackage": {
+        "disabled": false,
+        "items": [
+          {
+            "name": "CY18SU07",
+            "path": "BaseThemes/CY18SU07.json",
+            "type": 202
+          }
+        ],
+        "name": "SharedResources",
+        "type": 2
+      }
+    },
+    {
+      "resourcePackage": {
+        "disabled": false,
+        "items": [
+          {
+            "name": "tramitacao-de-proposicoes-no-congresso-rito-simplificado-diana-yukari-gabriela-caesar-camara-dos-deputados-g1-10-maio-201904537062366023403.jpg",
+            "path": "tramitacao-de-proposicoes-no-congresso-rito-simplificado-diana-yukari-gabriela-caesar-camara-dos-deputados-g1-10-maio-201904537062366023403.jpg",
+            "type": 100
+          }
+        ],
+        "name": "RegisteredResources",
+        "type": 1
+      }
+    },
+    {
+      "resourcePackage": {
+        "disabled": false,
+        "items": [
+          {
+            "name": "WordCloud1447959067750.pbiviz.json",
+            "path": "WordCloud1447959067750.pbiviz.json",
+            "type": 5
+          }
+        ],
+        "name": "WordCloud1447959067750",
+        "type": 0
+      }
+    }
+  ]
+}

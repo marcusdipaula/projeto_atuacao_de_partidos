@@ -1,0 +1,17 @@
+{
+  "name": "Texto_PL",
+  "dataType": "string",
+  "isHidden": true,
+  "sourceColumn": "Texto_PL",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_ChangedProperties",
+      "value": "[\"IsHidden\"]"
+    }
+  ]
+}

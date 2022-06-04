@@ -1,0 +1,12 @@
+{
+  "name": "Partido Parlamentar",
+  "dataType": "string",
+  "sourceColumn": "Partido Parlamentar",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

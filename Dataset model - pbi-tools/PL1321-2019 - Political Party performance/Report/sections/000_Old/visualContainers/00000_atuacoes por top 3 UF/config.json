@@ -1,0 +1,166 @@
+{
+  "name": "b51576f272c14c9bb740",
+  "layouts": [
+    {
+      "id": 0,
+      "position": {
+        "x": 1014,
+        "y": 98.934131736526979,
+        "width": 233,
+        "height": 150,
+        "z": 1000
+      }
+    }
+  ],
+  "singleVisual": {
+    "visualType": "lineChart",
+    "projections": {
+      "Category": [
+        {
+          "queryRef": "dDeputados.UF",
+          "active": true
+        }
+      ],
+      "Y": [
+        {
+          "queryRef": "Métricas.atuacoes"
+        }
+      ],
+      "Tooltips": [
+        {
+          "queryRef": "Divide(Métricas.atuacoes, ScopedEval(Métricas.atuacoes, []))"
+        }
+      ]
+    },
+    "prototypeQuery": {
+      "Version": 2,
+      "From": [
+        {
+          "Name": "d",
+          "Entity": "dDeputados",
+          "Type": 0
+        },
+        {
+          "Name": "m",
+          "Entity": "Métricas",
+          "Type": 0
+        }
+      ],
+      "Select": [
+        {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Source": "d"
+              }
+            },
+            "Property": "UF"
+          },
+          "Name": "dDeputados.UF"
+        },
+        {
+          "Measure": {
+            "Expression": {
+              "SourceRef": {
+                "Source": "m"
+              }
+            },
+            "Property": "atuacoes"
+          },
+          "Name": "Métricas.atuacoes"
+        },
+        {
+          "Arithmetic": {
+            "Left": {
+              "Measure": {
+                "Expression": {
+                  "SourceRef": {
+                    "Source": "m"
+                  }
+                },
+                "Property": "atuacoes"
+              }
+            },
+            "Right": {
+              "ScopedEval": {
+                "Expression": {
+                  "Measure": {
+                    "Expression": {
+                      "SourceRef": {
+                        "Source": "m"
+                      }
+                    },
+                    "Property": "atuacoes"
+                  }
+                },
+                "Scope": []
+              }
+            },
+            "Operator": 3
+          },
+          "Name": "Divide(Métricas.atuacoes, ScopedEval(Métricas.atuacoes, []))"
+        }
+      ],
+      "OrderBy": [
+        {
+          "Direction": 2,
+          "Expression": {
+            "Measure": {
+              "Expression": {
+                "SourceRef": {
+                  "Source": "m"
+                }
+              },
+              "Property": "atuacoes"
+            }
+          }
+        }
+      ]
+    },
+    "columnProperties": {
+      "dDeputados.UF": {
+        "displayName": "top 3 UF"
+      }
+    },
+    "drillFilterOtherVisuals": true,
+    "hasDefaultSort": true,
+    "objects": {
+      "dataPoint": [
+        {
+          "properties": {
+            "fill": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "ThemeDataColor": {
+                      "ColorId": 9,
+                      "Percent": -0.25
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Métricas.atuacoes"
+          }
+        }
+      ]
+    },
+    "vcObjects": {
+      "title": [
+        {
+          "properties": {
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'atuacoes por top 3 UF'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "CodSessao",
+  "dataType": "string",
+  "sourceColumn": "CodSessao",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

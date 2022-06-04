@@ -1,0 +1,23 @@
+{
+  "name": "Requerimentos",
+  "isHidden": true,
+  "partitions": [
+    {
+      "name": "Requerimentos-8b8efbe6-1da5-4273-898a-af656741d164",
+      "mode": "import",
+      "source": {
+        "type": "m"
+      }
+    }
+  ],
+  "annotations": [
+    {
+      "name": "PBI_NavigationStepName",
+      "value": "Navegação"
+    },
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    }
+  ]
+}

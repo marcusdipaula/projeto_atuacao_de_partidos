@@ -1,0 +1,13 @@
+{
+  "name": "UF Parlamentar",
+  "dataType": "string",
+  "sourceColumn": "UF Parlamentar",
+  "dataCategory": "StateOrProvince",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

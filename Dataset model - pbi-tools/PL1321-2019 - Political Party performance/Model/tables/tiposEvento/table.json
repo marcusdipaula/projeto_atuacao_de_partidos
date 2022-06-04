@@ -1,0 +1,23 @@
+{
+  "name": "tiposEvento",
+  "isHidden": true,
+  "partitions": [
+    {
+      "name": "tiposEvento-eba4ea33-67eb-4247-9cae-d6db6b708e19",
+      "mode": "import",
+      "source": {
+        "type": "m"
+      }
+    }
+  ],
+  "annotations": [
+    {
+      "name": "PBI_NavigationStepName",
+      "value": "Navegação"
+    },
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    }
+  ]
+}

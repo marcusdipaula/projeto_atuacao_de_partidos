@@ -1,0 +1,17 @@
+{
+  "name": "Partido",
+  "dataType": "string",
+  "isHidden": true,
+  "sourceColumn": "Partido",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_ChangedProperties",
+      "value": "[\"IsHidden\"]"
+    }
+  ]
+}

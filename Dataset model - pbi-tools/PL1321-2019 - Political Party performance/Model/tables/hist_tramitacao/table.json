@@ -1,0 +1,23 @@
+{
+  "name": "hist_tramitacao",
+  "isHidden": true,
+  "partitions": [
+    {
+      "name": "hist_tramitacao-84030943-16ee-4dfd-b58d-ff8b0cc8fa1d",
+      "mode": "import",
+      "source": {
+        "type": "m"
+      }
+    }
+  ],
+  "annotations": [
+    {
+      "name": "PBI_NavigationStepName",
+      "value": "Navegação"
+    },
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Pareceres",
+  "isHidden": true,
+  "partitions": [
+    {
+      "name": "Pareceres-6d8355d7-31b3-4486-b90e-6c0ea9906b69",
+      "mode": "import",
+      "source": {
+        "type": "m"
+      }
+    }
+  ],
+  "annotations": [
+    {
+      "name": "PBI_NavigationStepName",
+      "value": "Navegação"
+    },
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    }
+  ]
+}

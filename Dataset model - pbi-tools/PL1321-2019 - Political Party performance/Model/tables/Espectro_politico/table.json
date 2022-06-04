@@ -1,0 +1,22 @@
+{
+  "name": "Espectro_politico",
+  "partitions": [
+    {
+      "name": "Espectro_politico-efa5c805-43ba-4b45-9603-57351bf209ca",
+      "mode": "import",
+      "source": {
+        "type": "m"
+      }
+    }
+  ],
+  "annotations": [
+    {
+      "name": "PBI_NavigationStepName",
+      "value": "Navigation"
+    },
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Descrição",
+  "dataType": "string",
+  "isHidden": true,
+  "sourceColumn": "Descrição",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_ChangedProperties",
+      "value": "[\"IsHidden\"]"
+    }
+  ]
+}

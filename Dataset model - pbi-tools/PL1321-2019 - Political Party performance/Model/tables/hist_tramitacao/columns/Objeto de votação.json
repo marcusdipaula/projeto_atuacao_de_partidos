@@ -1,0 +1,12 @@
+{
+  "name": "Objeto de votação",
+  "dataType": "string",
+  "sourceColumn": "Objeto de votação",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

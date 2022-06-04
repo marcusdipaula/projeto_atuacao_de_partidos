@@ -1,0 +1,17 @@
+{
+  "name": "Voto Parlamentar",
+  "dataType": "string",
+  "isHidden": true,
+  "sourceColumn": "Voto Parlamentar",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_ChangedProperties",
+      "value": "[\"IsHidden\"]"
+    }
+  ]
+}
